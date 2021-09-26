@@ -79,18 +79,18 @@ p{
 /* Media type Desktop 1024px*/
 
 @media (min-width: 1024px){
+    
     body{
         background-color: #daa9c4;
         color: #000;
     }
 
-@media (min-width: 1024px){
     .container{
         border: 35px #1925CF ridge;
         font: bold 1.5em tahoma, arial, helvetica, sans-serif;
 }
 
-@media (min-width: 1024px){
+
     .style-1{
         background-color: #c0ced6;
         border: 15px ridge;
@@ -98,26 +98,22 @@ p{
         text-align:center;
         margin:25px auto;
         max-width:98%;
-}
- 
-
-@media (min-width: 1024px){
+    }
     .style-2{
         font:bold .9em blue;
         text-align:center;
         margin:15px auto;
         padding: 10px 20px;
         
-}
+    }
 
-@media (min-width: 1024px){
     p{
         font:normal 14px tahoma, arial, helvetica, sans-serif ;
         line-height: 25px;
         margin: auto 35px;
         color: white;
     }
-@media (min-width: 1024px){
+
     .footer{
         font: normal 12px tahoma, arial, helvetica, sans-serif;
         margin: 20px  50px;
